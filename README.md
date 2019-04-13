@@ -1,0 +1,1 @@
+this is the basic ajax script enabling fetching json contents from api custom api end-point
